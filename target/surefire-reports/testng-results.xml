@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-07T16:36:02 IST" name="Suite" finished-at="2021-12-07T16:36:44 IST" duration-ms="42223">
+    <groups>
+    </groups>
+    <test started-at="2021-12-07T16:36:02 IST" name="Test" finished-at="2021-12-07T16:36:44 IST" duration-ms="42223">
+      <class name="co.uk.advinia.testcases.TC001_HomePage">
+        <test-method is-config="true" signature="browsercode(java.lang.String)[pri:0, instance:co.uk.advinia.testcases.TC001_HomePage@3059cbc]" started-at="2021-12-07T16:36:02 IST" name="browsercode" finished-at="2021-12-07T16:36:44 IST" duration-ms="42131" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsercode -->
+        <test-method signature="tc001()[pri:0, instance:co.uk.advinia.testcases.TC001_HomePage@3059cbc]" started-at="2021-12-07T16:36:44 IST" name="tc001" finished-at="2021-12-07T16:36:44 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+      </class> <!-- co.uk.advinia.testcases.TC001_HomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
